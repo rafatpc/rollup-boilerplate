@@ -1,6 +1,6 @@
 {
     "name": "rollup-boilerplate",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Bare minimum Boilerplate for starting Rollup bundling",
     "repository": {
         "type": "git",
