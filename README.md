@@ -14,4 +14,4 @@ npm install
  - npm run project:clean
  - npm run watch
 
-``:dev`` flags disables the minification and sets the environment to development.
+``:dev`` flag disables the minification and sets the environment to development.
